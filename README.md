@@ -1,3 +1,6 @@
+**Repository archived 7/14/2025. SI has completed their migration to v4.1.0 and,
+as such, no longer requires this forked plugin.**
+
 
     This plugin is being merged with core ArchivesSpace. Development here has stopped
 
